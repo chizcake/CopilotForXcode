@@ -74,7 +74,7 @@ Use of the GitHub Copilot Xcode Extension is subject to [GitHub's Pre-Release Te
 1. To install updates, click `Check for Updates` from the menu item or in the settings application. After installing a new version, Xcode must be restarted to use the new version correctly. New versions can also be installed from `dmg` files downloaded from the releases page. When installing a new version via `dmg`, the application must be run manually the first time to accept the downloaded from the internet warning.
 
 1. To avoid confusion, we recommend disabling `Predictive code completion` under
-   `Xcode` > `Preferences` > `Text Editing` > `Editing`.
+   `Xcode` > `Settings...` > `Text Editing` > `Editing`.
 
 1. Press `tab` to accept the first line of a suggestion, hold `option` to view
    the full suggestion, and press `option` + `tab` to accept the full suggestion.
